@@ -35,7 +35,7 @@ GIF created with ...  LICECap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When building the app I had the most difficulty with uploading the video and making sure the README was perfect. Also continuing getting comfortable with GitHub in general but it is something I am currently working on and hope to improve my speed using it more.
 
 ## License
 
