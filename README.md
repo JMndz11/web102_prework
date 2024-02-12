@@ -2,7 +2,7 @@
 
 Submitted by: **Jonathan Mendez**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Funding Website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **3** hours spent in total
 
@@ -24,6 +24,7 @@ From previous courses I added a search bar that will match the games people sear
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![preworktake2](https://github.com/JMndz11/web102_prework/assets/143458932/3473aaf8-8fd3-44c0-a7aa-58485dbaa825)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICECap
