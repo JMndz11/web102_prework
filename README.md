@@ -24,7 +24,7 @@ From previous courses I added a search bar that will match the games people sear
 Here's a walkthrough of implemented features:
 
 <img src='https://github.com/JMndz11/web102_prework/assets/143458932/3473aaf8-8fd3-44c0-a7aa-58485dbaa825' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![preworktake2](https://github.com/JMndz11/web102_prework/assets/143458932/3473aaf8-8fd3-44c0-a7aa-58485dbaa825)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICECap
