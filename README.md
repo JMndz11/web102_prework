@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] List anything else that you can get done to improve the app functionality!
-From previous courses I added a search bar that will match the games people search for.
+* [X] From previous courses I added a search bar that will match the games people search for.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
